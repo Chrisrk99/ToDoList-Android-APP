@@ -31,7 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 I encounter a lot of RecyclerView error,  and some inconsistency due to Invalid view holder adapter import error which was chalenging because the tutorial used an old version of Android Studio and the new version uses different import for different 
 ## License
 
-    Copyright [2022] [Saraka Chris Kouame]
+    Copyright 2022 Saraka Chris Kouame
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
